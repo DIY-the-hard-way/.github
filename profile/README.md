@@ -1,4 +1,4 @@
-# DIY the hard way
+# DIY the hard way 💪🦾
 
 No es necesario apuntarse en ningún lugar, solo realiza los retos cuando tengas tiempo o veas necesario. Siempre estarán al alcance de todo el mundo.
 
@@ -7,7 +7,7 @@ Es preferible que las personas dividan en diferentes ramas su desarrollo, para u
 Únete a nuestro [discord](https://discord.gg/3DZcs4P84J)!!!!
 (en caso de que se haga internacional, se puede transcribir al inglés)
 
-## Objetivo
+## Objetivo 🎯
 
 Se plantea un reto y las personas se pueden juntar ya sea en equipos o individualmente para conseguir realizarlo antes de la fecha máxima. El primer objetivo de estos retos es que **aprendas a aprender** y a leer documentación, así como poder realizar nuevas hazañas.
 
@@ -15,7 +15,7 @@ No se presentará ningún tipo de ayuda o bibliografía (en un principio y bajo 
 
 Una vez se acabe el tiempo de un reto, habrá uno/s día/s (dependiendo de la cantidad de personas) donde cada persona o equipo obtendrá 7min como límite para presentar cómo han desarrollado el reto y una pequeña demostración.
 
-## Forma de proceder
+## Forma de proceder 📜
 
 Cuando salga un nuevo reto, se encontrarán los siguientes puntos:
 
@@ -30,9 +30,9 @@ Una vez se el repositorio se encuentra abierto, cualquier persona puede empezar 
 
 Es muy **importante** entender que los requisitos propuestos muchas veces estarán abiertos, debido a que no estarán muy acotados, ahí es donde recae la imaginación de la persona.
 
-## Permitido vs No Permitido
+## 🆗 Permitido vs No Permitido 🚫
 
-Esta permitido:
+🆗 Esta permitido:
 
     - Añadir nuevos requisitos
     - Creación de diagramas
@@ -42,7 +42,7 @@ Esta permitido:
     - Añadir issues para mejorar/corregir un reto (preferible comentarlo por [discord](https://discord.gg/3DZcs4P84J) antes)
     - Ofrecer nuevos retos a la comunidad y administradores
 
-No está permitido:
+🚫 No está permitido:
 
     - Eliminar requisitos básicos
     - Modificar requisitos básicos
@@ -51,4 +51,4 @@ No está permitido:
 
 PD: Con el paso del tiempo se irá avanzando y queremos que este tipo de retos sean **interesantes** para ti, puedas **aprender** y **socializar**!!
 
-**Compártelo con tus amigos!!!**
+**Compártelo con tus amigos!!!** 👥
