@@ -15,6 +15,17 @@ No se presentará ningún tipo de ayuda o bibliografía (en un principio y bajo 
 
 Una vez se acabe el tiempo de un reto, habrá uno/s día/s (dependiendo de la cantidad de personas) donde cada persona o equipo obtendrá 7min como límite para presentar cómo han desarrollado el reto y una pequeña demostración.
 
+Los retos sse basarán en:
+
+    - Ejecutables
+    - Productos Software
+    - Redes sociales
+    - Técnicas de hacking
+    - Diseño de PCBs
+    - Y mucho más!!!
+
+con el tiempo se irán añadiendo todo tipo de retos!!
+
 ## Forma de proceder 📜
 
 Cuando salga un nuevo reto, se encontrarán los siguientes puntos:
